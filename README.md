@@ -1,3 +1,2 @@
 # PhysicsBoardGame
-//Doesn't work, sloppy, lost interest.\n
-//Maybe I will come back to it, maybe.
+Doesn't work, sloppy, lost interest. Maybe I will come back to it.
