@@ -1,2 +1,2 @@
 # PhysicsBoardGame
-Doesn't work sloppy, lost interest.
+Doesn't work, sloppy, lost interest.
